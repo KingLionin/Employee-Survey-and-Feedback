@@ -1,0 +1,10 @@
+/* For the survey card layout */
+.response-card {
+    margin: 5rem 0 5rem 0;
+  }
+  
+  /* For the heading in the dashboard */
+  .whr-response-heading {
+    margin: 0 0 0 10px;
+    font-weight: 700;
+  }

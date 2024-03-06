@@ -1,0 +1,19 @@
+/* For the survey card layout */
+.survey-card {
+    margin: 5rem 0 5rem 0;
+  }
+  
+  /* For the heading in the dashboard */
+  .whr-survey-heading {
+    margin: 0 0 0 10px;
+    font-weight: 700;
+  }
+
+  /* For the create survey button */
+.survey-button {
+    margin: 0 1rem 0 0;
+  }
+
+  .fade {
+    width: 100%;
+  }
